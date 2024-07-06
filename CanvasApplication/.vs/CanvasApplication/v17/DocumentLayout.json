@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment4-10969867\\CanvasApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D567D6D2-E95E-44AF-9CA8-C87FADF10C46}|CanvasApplication\\CanvasApplication.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment4-10969867\\canvasapplication\\canvasapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D567D6D2-E95E-44AF-9CA8-C87FADF10C46}|CanvasApplication\\CanvasApplication.csproj|solutionrelative:canvasapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D567D6D2-E95E-44AF-9CA8-C87FADF10C46}|CanvasApplication\\CanvasApplication.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment4-10969867\\canvasapplication\\canvasapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D567D6D2-E95E-44AF-9CA8-C87FADF10C46}|CanvasApplication\\CanvasApplication.csproj|solutionrelative:canvasapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D567D6D2-E95E-44AF-9CA8-C87FADF10C46}|CanvasApplication\\CanvasApplication.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment4-10969867\\canvasapplication\\canvasapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D567D6D2-E95E-44AF-9CA8-C87FADF10C46}|CanvasApplication\\CanvasApplication.csproj|solutionrelative:canvasapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment4-10969867\\CanvasApplication\\CanvasApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "CanvasApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment4-10969867\\CanvasApplication\\CanvasApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "CanvasApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:50:17.812Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment4-10969867\\CanvasApplication\\CanvasApplication\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CanvasApplication\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment4-10969867\\CanvasApplication\\CanvasApplication\\Form1.Designer.cs",
+              "RelativeToolTip": "CanvasApplication\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:39:10.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment4-10969867\\CanvasApplication\\CanvasApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "CanvasApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment4-10969867\\CanvasApplication\\CanvasApplication\\Form1.cs",
+              "RelativeToolTip": "CanvasApplication\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:28:24.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
