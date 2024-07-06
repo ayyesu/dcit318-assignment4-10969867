@@ -1,0 +1,17 @@
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\bin\Debug\net8.0-windows\LoginScreenApplication.exe
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\bin\Debug\net8.0-windows\LoginScreenApplication.deps.json
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\bin\Debug\net8.0-windows\LoginScreenApplication.runtimeconfig.json
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\bin\Debug\net8.0-windows\LoginScreenApplication.dll
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\bin\Debug\net8.0-windows\LoginScreenApplication.pdb
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\LoginScreenApplication.Form1.resources
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\LoginScreenApplication.Properties.Resources.resources
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\LoginScreenApplication.csproj.GenerateResource.cache
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\LoginScreenApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\LoginScreenApplication.AssemblyInfoInputs.cache
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\LoginScreenApplication.AssemblyInfo.cs
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\LoginScreenApplication.csproj.CoreCompileInputs.cache
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\LoginScreenApplication.dll
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\refint\LoginScreenApplication.dll
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\LoginScreenApplication.pdb
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\LoginScreenApplication.genruntimeconfig.cache
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment4-10969867\LoginScreenApplication\LoginScreenApplication\obj\Debug\net8.0-windows\ref\LoginScreenApplication.dll
