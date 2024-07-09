@@ -152,7 +152,8 @@
             Controls.Add(textBox1);
             Controls.Add(label1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Address Book";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

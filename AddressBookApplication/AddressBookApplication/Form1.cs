@@ -15,8 +15,26 @@ namespace AddressBookApplication
 
             string data = $"---------------------------------\nName: {name} \nEmail: {email} \nPhone Number: {phoneNumber} \n---------------------------------";
 
-            File.WriteAllText("addressbook.txt", data);
-            MessageBox.Show("Information saved as addressbook.txt! \n In the project directory, locate /bin/Debug/net8.0-windows");
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*";
+            saveFileDialog.FilterIndex = 1;
+            saveFileDialog.FileName = "addressbook";
+
+            if (saveFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                string filePath = saveFileDialog.FileName;
+                File.WriteAllText(filePath, data);
+                MessageBox.Show("Information saved successfully!");
+            }
+            else
+            {
+                MessageBox.Show("Save operation cancelled.");
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
